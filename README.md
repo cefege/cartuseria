@@ -1,6 +1,6 @@
 
 
-# Script Description
+# Cartuseria Crawler
 This is a Python script that extracts data from the HTML of a given URL using the `Playwright` and `BeautifulSoup` libraries. The script is designed to extract information about a specific type of product from a Romanian eCommerce website called `Cartuseria.ro`. The extracted information includes whether or not a Frequently Asked Questions (FAQ) section exists, whether or not a product category exists, the number of internal links within the category description, and the total number of products available in the category.
 
 # Requirements
